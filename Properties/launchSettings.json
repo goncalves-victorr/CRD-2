@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "UsuarioProgram": {
+      "commandName": "Project",
+      "nativeDebugging": true,
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true,
+      "remoteDebugEnabled": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
